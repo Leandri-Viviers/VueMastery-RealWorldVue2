@@ -15,6 +15,20 @@ export default {
 </script>
 
 <style>
+/* Material Icons */
+.material-icons.small {
+  font-size: 18px;
+}
+.material-icons.medium {
+  font-size: 24px;
+}
+.material-icons.large {
+  font-size: 36px;
+}
+.material-icons.xlarge {
+  font-size: 48px;
+}
+
 html {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
