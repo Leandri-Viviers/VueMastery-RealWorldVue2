@@ -1,7 +1,7 @@
 <template>
   <div class="icon-wrapper">
     <span class="material-icons icon" :class="size">{{ name }}</span>
-  <div class="icon-wrapper" v-html="svg"></div>
+    <slot></slot>
   </div>
 </template>
 
